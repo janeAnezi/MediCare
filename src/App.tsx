@@ -1,12 +1,11 @@
+import NavTop from "./Components/NavTop"
 
 
 function App() {
 
   return (
     <>
-      <div>
-        <h1>Wlcome to MEDICARE</h1>
-      </div>
+     <NavTop />
     </>
   )
 }
