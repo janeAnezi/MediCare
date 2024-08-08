@@ -1,7 +1,7 @@
 
 export default function NavTop() {
   return (
-    <div className="nav-top flex justify-between bg-slate-200 px-8">
+    <div className="nav-top flex justify-between bg-slate-200 px-8 p-1">
       <nav >
         <ul className="flex space-x-6">
           <li>
